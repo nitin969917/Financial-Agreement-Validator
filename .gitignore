@@ -5,7 +5,6 @@ __pycache__/
 *.so
 .Python
 build/
-gemini_api_key.py
 develop-eggs/
 dist/
 downloads/
